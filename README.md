@@ -49,7 +49,6 @@ PotionGang.fr:
 The permissions requested by the extension are used solely to enable its core functionality:
 
 * **tabs**: required to manage tabs opened during certain navigation steps
-* **scripting**: required to automate certain user interactions on specific pages
 * **limited website access**: the extension only operates on pages necessary for its functionality
 
 No permissions are used for data collection purposes.
